@@ -31,11 +31,12 @@ You can switch between these views using the provided navigation options to tail
 Below are visual previews of the "Cereal Trends" Tableau dashboard. These images offer a glimpse of the interactive visualizations and insights you can explore in the dashboard.
 
 1. All Together View
-   ![image](https://github.com/vkquests/Cereal_Trends_Tableau/assets/126692346/2ff61fb4-8197-4c6b-9c4f-64304cf454ab)
+   ![image](https://github.com/vkquests/Cereal_Trends_Tableau/assets/126692346/3e89184f-a07e-4301-95b3-4947cb7cbf34)
 
 
 2. Split by Metric View
-   ![image](https://github.com/vkquests/Cereal_Trends_Tableau/assets/126692346/f43816ab-bb10-4858-9ab6-751aab8617c7)
+   ![image](https://github.com/vkquests/Cereal_Trends_Tableau/assets/126692346/589f351a-9b3f-4508-a6c8-44d863074834)
+
 
 ## Key Visualizations
 1. Cereal Production Over Time    
